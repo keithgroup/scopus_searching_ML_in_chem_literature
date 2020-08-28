@@ -1,0 +1,141 @@
+,Division,Keyword,Total
+45,AGFD,protein*,28984.0
+0,AGFD,agricultur*,16595.0
+1,AGFD,food,9962.0
+36,AGFD,fruit*,5217.0
+9,AGFD,nut*,4852.0
+56,AGRO,soil,17059.0
+60,AGRO,crop*,10069.0
+65,AGRO,groundwater,4532.0
+51,AGRO,developing countr*,1770.0
+64,AGRO,surface water,1701.0
+77,ANYL,sensor*,70210.0
+80,ANYL,spectroscopy,16793.0
+88,ANYL,characterization*,14746.0
+75,ANYL,spectrometry,5417.0
+84,ANYL,groundwater,4532.0
+95,BIOT,biochemi*,5567.0
+109,BIOT,biophysic*,2701.0
+106,BIOT,systems biology,1503.0
+96,BIOT,biotechnology,1443.0
+101,BIOT,drug delivery,821.0
+119,BIOL,drug discovery,2761.0
+122,BIOL,protein folding,1256.0
+126,BIOL,biosynthesis,800.0
+113,BIOL,cytochrome*,795.0
+114,BIOL,biomolecule*,580.0
+129,BMGT,chem* compan*,35.0
+130,BMGT,chem* enterprise*,15.0
+128,BMGT,chem* business*,2.0
+131,BMGT,chem* research and development,1.0
+132,CARB,carbohydrate*,667.0
+139,CARB,glycoprotein*,646.0
+136,CARB,glycan*,100.0
+133,CARB,oligosaccharide*,85.0
+135,CARB,glycobiology,15.0
+142,CATL,cataly*,3500.0
+154,CATL,metal oxides,1119.0
+144,CATL,photocataly*,298.0
+159,CATL,surface chemistry,153.0
+149,CATL,surface reaction*,88.0
+161,CELL,cellulose,526.0
+164,CELL,polysaccharide*,329.0
+166,CELL,lignin,216.0
+167,CELL,lignocellulos*,127.0
+168,CELL,hemp,46.0
+177,CHED,chem* class*,154.0
+178,CHED,chem* communication*,17.0
+169,CHED,chem* educat*,12.0
+173,CHED,chem* educat*,12.0
+176,CHED,lab* safety,12.0
+179,CHAS,chem* safety,36.0
+180,CHAS,lab* safety,12.0
+182,CHAS,environmental health and safety,11.0
+181,CHAS,chem* regulations,10.0
+188,CINF,drug discovery,2761.0
+185,CINF,computational chemistry,946.0
+184,CINF,bio* modeling,417.0
+189,CINF,chem* database*,401.0
+186,CINF,cheminformatic*,323.0
+193,TOXI,toxi*,5275.0
+195,TOXI,chemical exposure*,34.0
+194,TOXI,antibody drug conjugate*,6.0
+197,CHAL,pharmaceutical patent*,6.0
+198,CHAL,chem* in commerce,4.0
+196,CHAL,chem* patent*,1.0
+208,COLL,nanoparticle*,2001.0
+210,COLL,adsorption,1868.0
+224,COLL,thin film*,1387.0
+212,COLL,tribolog*,890.0
+205,COLL,nanomaterial*,436.0
+227,COMP,drug discovery,2761.0
+226,COMP,drug design,2753.0
+242,COMP,molecular model*,2120.0
+238,COMP,protein database*,1924.0
+240,COMP,density functional theory,1427.0
+249,ENFL,fuel*,14096.0
+264,ENFL,petroleum,8520.0
+296,ENFL,energy efficiency,8261.0
+262,ENFL,batter*,7792.0
+279,ENFL,renewable energy,5863.0
+339,ENVR,*sensor*,71700.0
+341,ENVR,soil*,17143.0
+313,ENVR,water quality,4974.0
+318,ENVR,environmental monitor*,3626.0
+304,ENVR,cataly*,3500.0
+357,FLUO,fluorine*,472.0
+358,FLUO,radiopharmaceutical chem*,1.0
+365,GEOC,groundwater,4532.0
+543,GEOC,mining,4223.0
+359,GEOC,*geochem*,1680.0
+367,GEOC,anthropogenic,1513.0
+373,GEOC,hydraulic frac*,502.0
+377,HIST,chem* histor*,7.0
+379,HIST,evolution of chem*,4.0
+378,HIST,history of chem*,2.0
+389,I&EC,water purification,305.0
+381,I&EC,industrial chem*,189.0
+386,I&EC,rare earth element*,96.0
+382,I&EC,molten salt*,68.0
+380,I&EC,industrial and engineering chemistry,67.0
+400,INOR,electrochem*,1978.0
+398,INOR,nanomaterial*,436.0
+392,INOR,organometallic*,172.0
+397,INOR,metal organic framework*,118.0
+401,INOR,lanthanide*,62.0
+416,MEDI,protein interaction*,3692.0
+408,MEDI,drug discovery,2761.0
+415,MEDI,drug design,2753.0
+429,MEDI,antibiotic*,1624.0
+413,MEDI,glioblastoma*,715.0
+441,NUCL,nuclear fuel*,754.0
+448,NUCL,isotope*,713.0
+440,NUCL,radioisotope*,381.0
+447,NUCL,nuclear medicine*,237.0
+451,NUCL,nuclear fission,187.0
+466,ORGN,protein*,28984.0
+467,ORGN,amino acid*,8849.0
+465,ORGN,peptide*,3754.0
+460,ORGN,aromatic*,1416.0
+452,ORGN,organic chem*,503.0
+492,PHYS,electro*,97360.0
+498,PHYS,spectroscopy,16793.0
+485,PHYS,ion*,10400.0
+505,PHYS,nano*,9460.0
+513,PHYS,quantum*,9333.0
+518,POLY,plastic*,10156.0
+514,POLY,polymer*,7524.0
+519,POLY,polymeriz*,981.0
+520,POLY,polymeric,554.0
+517,POLY,macromolecule*,375.0
+527,PMSE,*polymer*,7882.0
+533,PMSE,*peptide*,4744.0
+529,PMSE,thin film*,1387.0
+532,PMSE,tissue engineering,670.0
+531,PMSE,macromolecul*,515.0
+537,PROF,chem* education,12.0
+538,RUBB,rubber*,1068.0
+541,SCHB,commercial chem*,7.0
+539,SCHB,chem* sector*,4.0
+540,SCHB,academic entrepreneur*,2.0
+542,SCHB,science advoca*,1.0

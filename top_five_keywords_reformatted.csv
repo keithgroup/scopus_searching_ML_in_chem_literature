@@ -1,0 +1,33 @@
+,Division,1,2,3,4,5
+0,PHYS,electro*,spectroscopy,ion*,nano*,quantum*
+0,ANYL,sensor*,spectroscopy,characterization*,spectrometry,groundwater
+0,ENVR,*sensor*,soil*,water quality,environmental monitor*,cataly*
+0,AGFD,protein*,agricultur*,food,fruit*,nut*
+0,ENFL,fuel*,petroleum,energy efficiency,batter*,renewable energy
+0,AGRO,soil,crop*,groundwater,developing countr*,surface water
+0,ORGN,protein*,amino acid*,peptide*,aromatic*,organic chem*
+0,POLY,plastic*,polymer*,polymeriz*,polymeric,macromolecule*
+0,PMSE,*polymer*,*peptide*,thin film*,tissue engineering,macromolecul*
+0,BIOT,biochemi*,biophysic*,systems biology,biotechnology,drug delivery
+0,GEOC,groundwater,mining,*geochem*,anthropogenic,hydraulic frac*
+0,MEDI,protein interaction*,drug discovery,drug design,antibiotic*,glioblastoma*
+0,COMP,drug discovery,drug design,molecular model*,protein database*,density functional theory
+0,COLL,nanoparticle*,adsorption,thin film*,tribolog*,nanomaterial*
+0,BIOL,drug discovery,protein folding,biosynthesis,cytochrome*,biomolecule*
+0,TOXI,toxi*,chemical exposure*,antibody drug conjugate*,None,None
+0,CATL,cataly*,metal oxides,photocataly*,surface chemistry,surface reaction*
+0,CINF,drug discovery,computational chemistry,bio* modeling,chem* database*,cheminformatic*
+0,INOR,electrochem*,nanomaterial*,organometallic*,metal organic framework*,lanthanide*
+0,NUCL,nuclear fuel*,isotope*,radioisotope*,nuclear medicine*,nuclear fission
+0,CARB,carbohydrate*,glycoprotein*,glycan*,oligosaccharide*,glycobiology
+0,RUBB,rubber*,None,None,None,None
+0,CELL,cellulose,polysaccharide*,lignin,lignocellulos*,hemp
+0,I&EC,water purification,industrial chem*,rare earth element*,molten salt*,industrial and engineering chemistry
+0,FLUO,fluorine*,radiopharmaceutical chem*,None,None,None
+0,CHED,chem* class*,chem* communication*,chem* educat*,chem* educat*,lab* safety
+0,CHAS,chem* safety,lab* safety,environmental health and safety,chem* regulations,None
+0,BMGT,chem* compan*,chem* enterprise*,chem* business*,chem* research and development,None
+0,SCHB,commercial chem*,chem* sector*,academic entrepreneur*,science advoca*,None
+0,HIST,chem* histor*,evolution of chem*,history of chem*,None,None
+0,PROF,chem* education,None,None,None,None
+0,CHAL,pharmaceutical patent*,chem* in commerce,chem* patent*,None,None
