@@ -1,33 +1,65 @@
-,Division,1,2,3,4,5
-0,PHYS,electro* (56.2%),spectroscopy (9.7%),ion* (6.0%),nano* (5.5%),quantum* (5.4%)
-1,ANYL,sensor* (55.3%),spectroscopy (13.2%),characterization* (11.6%),spectrometry (4.3%),groundwater (3.6%)
-2,ENVR,*sensor* (60.7%),soil* (14.5%),water quality (4.2%),environmental monitor* (3.1%),cataly* (3.0%)
-3,AGFD,protein* (31.7%),agricultur* (18.2%),food (10.9%),fruit* (5.7%),nut* (5.3%)
-4,ENFL,fuel* (19.1%),petroleum (11.6%),energy efficiency (11.2%),batter* (10.6%),renewable energy (8.0%)
-5,AGRO,soil (43.1%),crop* (25.5%),groundwater (11.5%),developing countr* (4.5%),surface water (4.3%)
-6,ORGN,protein* (64.6%),amino acid* (19.7%),peptide* (8.4%),aromatic* (3.2%),organic chem* (1.1%)
-7,POLY,plastic* (51.0%),polymer* (37.8%),polymeriz* (4.9%),polymeric (2.8%),macromolecule* (1.9%)
-8,PMSE,*polymer* (50.5%),*peptide* (30.4%),thin film* (8.9%),tissue engineering (4.3%),macromolecul* (3.3%)
-9,BIOT,biochemi* (37.9%),biophysic* (18.4%),systems biology (10.2%),biotechnology (9.8%),drug delivery (5.6%)
-10,GEOC,groundwater (33.4%),mining (31.2%),*geochem* (12.4%),anthropogenic (11.2%),hydraulic frac* (3.7%)
-11,MEDI,protein interaction* (25.6%),drug discovery (19.1%),drug design (19.1%),antibiotic* (11.2%),glioblastoma* (5.0%)
-12,COMP,drug discovery (18.6%),drug design (18.6%),molecular model* (14.3%),protein database* (13.0%),density functional theory (9.6%)
-13,COLL,nanoparticle* (21.2%),adsorption (19.8%),thin film* (14.7%),tribolog* (9.5%),nanomaterial* (4.6%)
-14,BIOL,drug discovery (42.1%),protein folding (19.1%),biosynthesis (12.2%),cytochrome* (12.1%),biomolecule* (8.8%)
-15,TOXI,toxi* (99.2%),chemical exposure* (0.6%),antibody drug conjugate* (0.1%),None,None
-16,CATL,cataly* (63.6%),metal oxides (20.3%),photocataly* (5.4%),surface chemistry (2.8%),surface reaction* (1.6%)
-17,CINF,drug discovery (51.5%),computational chemistry (17.7%),bio* modeling (7.8%),chem* database* (7.5%),cheminformatic* (6.0%)
-18,INOR,electrochem* (67.0%),nanomaterial* (14.8%),organometallic* (5.8%),metal organic framework* (4.0%),lanthanide* (2.1%)
-19,NUCL,nuclear fuel* (28.9%),isotope* (27.4%),radioisotope* (14.6%),nuclear medicine* (9.1%),nuclear fission (7.2%)
-20,CARB,carbohydrate* (43.5%),glycoprotein* (42.1%),glycan* (6.5%),oligosaccharide* (5.5%),glycobiology (1.0%)
-21,RUBB,rubber* (100.0%),None,None,None,None
-22,CELL,cellulose (41.2%),polysaccharide* (25.8%),lignin (16.9%),lignocellulos* (10.0%),hemp (3.6%)
-23,I&EC,water purification (35.0%),industrial chem* (21.7%),rare earth element* (11.0%),molten salt* (7.8%),industrial and engineering chemistry (7.7%)
-24,FLUO,fluorine* (99.8%),radiopharmaceutical chem* (0.2%),None,None,None
-25,CHED,chem* class* (71.6%),chem* communication* (7.9%),chem* educat* (5.6%),chem* educat* (5.6%),lab* safety (5.6%)
-26,CHAS,chem* safety (52.2%),lab* safety (17.4%),environmental health and safety (15.9%),chem* regulations (14.5%),None
-27,BMGT,chem* compan* (66.0%),chem* enterprise* (28.3%),chem* business* (3.8%),chem* research and development (1.9%),None
-28,SCHB,commercial chem* (50.0%),chem* sector* (28.6%),academic entrepreneur* (14.3%),science advoca* (7.1%),None
-29,HIST,chem* histor* (53.8%),evolution of chem* (30.8%),history of chem* (15.4%),None,None
-30,PROF,chem* education (100.0%),None,None,None,None
-31,CHAL,pharmaceutical patent* (54.5%),chem* in commerce (36.4%),chem* patent* (9.1%),None,None
+,Division,Year Range,1,2,3,4,5
+0,AGFD,2000-2010,protein* (45.4%),agricultur* (11.4%),food (10.5%),nut* (4.0%),fruit* (3.6%)
+1,AGRO,2000-2010,soil (46.3%),crop* (16.9%),groundwater (16.1%),metabolite* (4.6%),surface water (4.2%)
+2,ANYL,2000-2010,sensor* (57.3%),characterization* (11.8%),spectroscopy (9.5%),spectrometry (4.6%),groundwater (3.9%)
+3,BIOT,2000-2010,biochemi* (40.7%),biophysic* (17.1%),systems biology (12.5%),biotechnology (12.0%),bioprocess* (5.2%)
+4,BIOL,2000-2010,drug discovery (32.2%),protein folding (31.5%),cytochrome* (13.9%),biosynthesis (11.7%),biomolecule* (6.0%)
+5,BMGT,2000-2010,chem* compan* (75.0%),chem* enterprise* (25.0%),chem* business* (0.0%),chem* research and development (0.0%),None
+6,CARB,2000-2010,glycoprotein* (50.2%),carbohydrate* (33.2%),glycan* (8.5%),oligosaccharide* (5.9%),glycobiology (1.0%)
+7,CATL,2000-2010,cataly* (73.3%),metal oxides (13.8%),surface chemistry (5.3%),photocataly* (2.7%),surface reaction* (1.4%)
+8,CELL,2000-2010,cellulose (45.7%),polysaccharide* (33.1%),lignin (13.1%),hemp (4.5%),lignocellulos* (2.9%)
+9,CHED,2000-2010,chem* class* (84.8%),chem* communication* (8.7%),lab* safety (4.3%),chem* student* (2.2%),chem* educat* (0.0%)
+10,CHAS,2000-2010,chem* safety (30.8%),environmental health and safety (30.8%),chem* regulations (23.1%),lab* safety (15.4%),None
+11,CINF,2000-2010,drug discovery (57.7%),bio* modeling (11.0%),computational chemistry (10.3%),cheminformatic* (7.6%),chemical info* (5.9%)
+12,TOXI,2000-2010,toxi* (99.5%),chemical exposure* (0.5%),antibody drug conjugate* (0.0%),None,None
+13,CHAL,2000-2010,chem* in commerce (100.0%),chem* patent* (0.0%),pharmaceutical patent* (0.0%),None,None
+14,COLL,2000-2010,thin film* (22.8%),adsorption (14.7%),tribolog* (13.1%),nanoparticle* (8.0%),emuls* (5.8%)
+15,COMP,2000-2010,drug design (22.7%),protein database* (17.8%),molecular model* (15.6%),drug discovery (14.9%),quantum comp* (8.3%)
+16,ENFL,2000-2010,fuel* (25.9%),petroleum (15.2%),cataly* (9.2%),batter* (8.3%),energy efficiency (5.1%)
+17,ENVR,2000-2010,*sensor* (62.9%),soil* (11.9%),water quality (4.4%),cataly* (3.7%),wastewater (2.4%)
+18,FLUO,2000-2010,fluorine* (100.0%),radiopharmaceutical chem* (0.0%),None,None,None
+19,GEOC,2000-2010,groundwater (43.5%),mining (31.6%),*geochem* (11.3%),anthropogenic (6.9%),hydraulic frac* (1.9%)
+20,HIST,2000-2010,evolution of chem* (50.0%),chem* histor* (25.0%),history of chem* (25.0%),None,None
+21,I&EC,2000-2010,water purification (37.1%),industrial chem* (33.5%),rare earth element* (16.8%),material* recovery (3.6%),molten salt* (3.0%)
+22,INOR,2000-2010,electrochem* (78.3%),nanomaterial* (7.0%),organometallic* (5.3%),nanoscience* (2.6%),lanthanide* (2.3%)
+23,MEDI,2000-2010,protein interaction* (29.1%),drug design (24.3%),drug discovery (16.0%),antibiotic* (10.9%),lipophil* (3.8%)
+24,NUCL,2000-2010,isotope* (32.4%),nuclear fuel* (21.2%),radioisotope* (19.8%),nuclear medicine* (6.6%),nuclear fission (6.0%)
+25,ORGN,2000-2010,protein* (64.1%),amino acid* (20.8%),peptide* (8.5%),aromatic* (2.8%),organic chem* (1.3%)
+26,PHYS,2000-2010,electro* (57.1%),spectroscopy (7.2%),ion* (6.5%),quantum* (5.9%),graph theory (5.5%)
+27,POLY,2000-2010,plastic* (49.0%),polymer* (39.4%),polymeriz* (5.7%),polymeric (2.9%),macromolecule* (1.8%)
+28,PMSE,2000-2010,*polymer* (51.2%),*peptide* (31.8%),thin film* (8.9%),macromolecul* (3.2%),tissue engineering (2.9%)
+29,PROF,2000-2010,chem* education (nan%),None,None,None,None
+30,RUBB,2000-2010,rubber* (100.0%),None,None,None,None
+31,SCHB,2000-2010,chem* sector* (100.0%),academic entrepreneur* (0.0%),commercial chem* (0.0%),science advoca* (0.0%),None
+32,AGFD,2011-2020,protein* (27.4%),agricultur* (20.8%),food (10.9%),fruit* (6.4%),nut* (5.7%)
+33,AGRO,2011-2020,soil (41.7%),crop* (28.4%),groundwater (9.9%),developing countr* (5.0%),surface water (4.4%)
+34,ANYL,2011-2020,sensor* (53.7%),spectroscopy (15.1%),characterization* (11.5%),spectrometry (4.3%),groundwater (3.4%)
+35,BIOT,2011-2020,biochemi* (36.4%),biophysic* (18.7%),systems biology (10.3%),precision medicine (8.5%),biotechnology (8.2%)
+36,BIOL,2011-2020,drug discovery (48.3%),biosynthesis (12.4%),protein folding (11.4%),cytochrome* (11.2%),biomolecule* (10.4%)
+37,BMGT,2011-2020,chem* compan* (56.7%),chem* enterprise* (36.7%),chem* business* (6.7%),chem* research and development (0.0%),None
+38,CARB,2011-2020,carbohydrate* (47.4%),glycoprotein* (38.8%),glycan* (6.3%),oligosaccharide* (5.0%),glycobiology (1.0%)
+39,CATL,2011-2020,cataly* (59.6%),metal oxides (22.4%),photocataly* (6.9%),surface chemistry (1.9%),surface reaction* (1.9%)
+40,CELL,2011-2020,cellulose (39.8%),polysaccharide* (23.7%),lignin (18.1%),lignocellulos* (11.9%),hemp (3.5%)
+41,CHED,2011-2020,chem* class* (68.1%),chem* educat* (7.5%),chem* educat* (7.5%),lab* safety (6.2%),chem* communication* (6.2%)
+42,CHAS,2011-2020,chem* safety (58.2%),lab* safety (18.2%),chem* regulations (12.7%),environmental health and safety (10.9%),None
+43,CINF,2011-2020,drug discovery (50.5%),computational chemistry (19.4%),chem* database* (8.6%),bio* modeling (6.3%),cheminformatic* (6.1%)
+44,TOXI,2011-2020,toxi* (99.1%),chemical exposure* (0.8%),antibody drug conjugate* (0.2%),None,None
+45,CHAL,2011-2020,pharmaceutical patent* (53.8%),chem* in commerce (30.8%),chem* patent* (15.4%),None,None
+46,COLL,2011-2020,nanoparticle* (26.2%),adsorption (21.5%),thin film* (11.2%),tribolog* (8.6%),nanomaterial* (5.5%)
+47,COMP,2011-2020,drug discovery (20.5%),drug design (16.4%),molecular model* (13.4%),density functional theory (11.4%),protein database* (11.4%)
+48,ENFL,2011-2020,fuel* (17.5%),energy efficiency (12.8%),batter* (11.1%),petroleum (10.6%),renewable energy (8.9%)
+49,ENVR,2011-2020,*sensor* (58.9%),soil* (15.7%),water quality (4.3%),environmental monitor* (3.6%),cataly* (2.7%)
+50,FLUO,2011-2020,fluorine* (99.6%),radiopharmaceutical chem* (0.4%),None,None,None
+51,GEOC,2011-2020,mining (31.7%),groundwater (29.4%),*geochem* (12.8%),anthropogenic (12.7%),hydraulic frac* (4.3%)
+52,HIST,2011-2020,chem* histor* (62.5%),evolution of chem* (25.0%),history of chem* (12.5%),None,None
+53,I&EC,2011-2020,water purification (35.0%),industrial chem* (18.4%),industrial and engineering chemistry (10.2%),industrial and engineering chemistry (10.2%),rare earth element* (9.7%)
+54,INOR,2011-2020,electrochem* (62.0%),nanomaterial* (18.2%),organometallic* (6.1%),metal organic framework* (5.4%),electrocataly* (2.1%)
+55,MEDI,2011-2020,protein interaction* (25.2%),drug discovery (20.9%),drug design (16.7%),antibiotic* (10.1%),glioblastoma* (6.5%)
+56,NUCL,2011-2020,nuclear fuel* (32.2%),isotope* (26.9%),radioisotope* (11.0%),nuclear medicine* (9.4%),nuclear fission (8.2%)
+57,ORGN,2011-2020,protein* (65.6%),amino acid* (18.8%),peptide* (8.2%),aromatic* (3.2%),organic chem* (1.0%)
+58,PHYS,2011-2020,electro* (55.1%),spectroscopy (10.9%),nano* (6.3%),ion* (5.8%),quantum* (5.4%)
+59,POLY,2011-2020,plastic* (51.5%),polymer* (37.7%),polymeriz* (4.3%),polymeric (2.7%),macromolecule* (1.9%)
+60,PMSE,2011-2020,*polymer* (50.4%),*peptide* (30.0%),thin film* (8.1%),tissue engineering (5.4%),macromolecul* (3.2%)
+61,PROF,2011-2020,chem* education (100.0%),None,None,None,None
+62,RUBB,2011-2020,rubber* (100.0%),None,None,None,None
+63,SCHB,2011-2020,commercial chem* (50.0%),chem* sector* (25.0%),academic entrepreneur* (16.7%),science advoca* (8.3%),None

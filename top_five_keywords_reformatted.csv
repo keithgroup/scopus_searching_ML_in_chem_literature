@@ -1,65 +1,65 @@
-,1,2,3,4,5,Division,Year Range
-0,protein*,agricultur*,food,nut*,fruit*,AGFD,2000-2010
-0,protein*,agricultur*,food,fruit*,nut*,AGFD,2011-2020
-0,soil,crop*,groundwater,metabolite*,surface water,AGRO,2000-2010
-0,soil,crop*,groundwater,developing countr*,surface water,AGRO,2011-2020
-0,sensor*,characterization*,spectroscopy,spectrometry,groundwater,ANYL,2000-2010
-0,sensor*,spectroscopy,characterization*,spectrometry,groundwater,ANYL,2011-2020
-0,biochemi*,biophysic*,systems biology,biotechnology,bioprocess*,BIOT,2000-2010
-0,biochemi*,biophysic*,systems biology,precision medicine,biotechnology,BIOT,2011-2020
-0,drug discovery,protein folding,cytochrome*,biosynthesis,biomolecule*,BIOL,2000-2010
-0,drug discovery,biosynthesis,protein folding,cytochrome*,biomolecule*,BIOL,2011-2020
-0,chem* compan*,chem* enterprise*,chem* business*,chem* research and development,None,BMGT,2000-2010
-0,chem* compan*,chem* enterprise*,chem* business*,chem* research and development,None,BMGT,2011-2020
-0,glycoprotein*,carbohydrate*,glycan*,oligosaccharide*,glycobiology,CARB,2000-2010
-0,carbohydrate*,glycoprotein*,glycan*,oligosaccharide*,glycobiology,CARB,2011-2020
-0,cataly*,metal oxides,surface chemistry,photocataly*,surface reaction*,CATL,2000-2010
-0,cataly*,metal oxides,photocataly*,surface chemistry,surface reaction*,CATL,2011-2020
-0,cellulose,polysaccharide*,lignin,hemp,lignocellulos*,CELL,2000-2010
-0,cellulose,polysaccharide*,lignin,lignocellulos*,hemp,CELL,2011-2020
-0,chem* class*,chem* communication*,lab* safety,chem* student*,chem* educat*,CHED,2000-2010
-0,chem* class*,chem* educat*,chem* educat*,lab* safety,chem* communication*,CHED,2011-2020
-0,chem* safety,environmental health and safety,chem* regulations,lab* safety,None,CHAS,2000-2010
-0,chem* safety,lab* safety,chem* regulations,environmental health and safety,None,CHAS,2011-2020
-0,drug discovery,bio* modeling,computational chemistry,cheminformatic*,chemical info*,CINF,2000-2010
-0,drug discovery,computational chemistry,chem* database*,bio* modeling,cheminformatic*,CINF,2011-2020
-0,toxi*,chemical exposure*,antibody drug conjugate*,None,None,TOXI,2000-2010
-0,toxi*,chemical exposure*,antibody drug conjugate*,None,None,TOXI,2011-2020
-0,chem* in commerce,chem* patent*,pharmaceutical patent*,None,None,CHAL,2000-2010
-0,pharmaceutical patent*,chem* in commerce,chem* patent*,None,None,CHAL,2011-2020
-0,thin film*,adsorption,tribolog*,nanoparticle*,emuls*,COLL,2000-2010
-0,nanoparticle*,adsorption,thin film*,tribolog*,nanomaterial*,COLL,2011-2020
-0,drug design,protein database*,molecular model*,drug discovery,quantum comp*,COMP,2000-2010
-0,drug discovery,drug design,molecular model*,density functional theory,protein database*,COMP,2011-2020
-0,fuel*,petroleum,cataly*,batter*,energy efficiency,ENFL,2000-2010
-0,fuel*,energy efficiency,batter*,petroleum,renewable energy,ENFL,2011-2020
-0,*sensor*,soil*,water quality,cataly*,wastewater,ENVR,2000-2010
-0,*sensor*,soil*,water quality,environmental monitor*,cataly*,ENVR,2011-2020
-0,fluorine*,radiopharmaceutical chem*,None,None,None,FLUO,2000-2010
-0,fluorine*,radiopharmaceutical chem*,None,None,None,FLUO,2011-2020
-0,groundwater,mining,*geochem*,anthropogenic,hydraulic frac*,GEOC,2000-2010
-0,mining,groundwater,*geochem*,anthropogenic,hydraulic frac*,GEOC,2011-2020
-0,evolution of chem*,chem* histor*,history of chem*,None,None,HIST,2000-2010
-0,chem* histor*,evolution of chem*,history of chem*,None,None,HIST,2011-2020
-0,water purification,industrial chem*,rare earth element*,material* recovery,molten salt*,I&EC,2000-2010
-0,water purification,industrial chem*,industrial and engineering chemistry,industrial and engineering chemistry,rare earth element*,I&EC,2011-2020
-0,electrochem*,nanomaterial*,organometallic*,nanoscience*,lanthanide*,INOR,2000-2010
-0,electrochem*,nanomaterial*,organometallic*,metal organic framework*,electrocataly*,INOR,2011-2020
-0,protein interaction*,drug design,drug discovery,antibiotic*,lipophil*,MEDI,2000-2010
-0,protein interaction*,drug discovery,drug design,antibiotic*,glioblastoma*,MEDI,2011-2020
-0,isotope*,nuclear fuel*,radioisotope*,nuclear medicine*,nuclear fission,NUCL,2000-2010
-0,nuclear fuel*,isotope*,radioisotope*,nuclear medicine*,nuclear fission,NUCL,2011-2020
-0,protein*,amino acid*,peptide*,aromatic*,organic chem*,ORGN,2000-2010
-0,protein*,amino acid*,peptide*,aromatic*,organic chem*,ORGN,2011-2020
-0,electro*,spectroscopy,ion*,quantum*,graph theory,PHYS,2000-2010
-0,electro*,spectroscopy,nano*,ion*,quantum*,PHYS,2011-2020
-0,plastic*,polymer*,polymeriz*,polymeric,macromolecule*,POLY,2000-2010
-0,plastic*,polymer*,polymeriz*,polymeric,macromolecule*,POLY,2011-2020
-0,*polymer*,*peptide*,thin film*,macromolecul*,tissue engineering,PMSE,2000-2010
-0,*polymer*,*peptide*,thin film*,tissue engineering,macromolecul*,PMSE,2011-2020
-0,chem* education,None,None,None,None,PROF,2000-2010
-0,chem* education,None,None,None,None,PROF,2011-2020
-0,rubber*,None,None,None,None,RUBB,2000-2010
-0,rubber*,None,None,None,None,RUBB,2011-2020
-0,chem* sector*,academic entrepreneur*,commercial chem*,science advoca*,None,SCHB,2000-2010
-0,commercial chem*,chem* sector*,academic entrepreneur*,science advoca*,None,SCHB,2011-2020
+,Division,Year Range,1,2,3,4,5
+0,AGFD,2000-2010,protein*,agricultur*,food,nut*,fruit*
+0,AGFD,2011-2020,protein*,agricultur*,food,fruit*,nut*
+0,AGRO,2000-2010,soil,crop*,groundwater,metabolite*,surface water
+0,AGRO,2011-2020,soil,crop*,groundwater,developing countr*,surface water
+0,ANYL,2000-2010,sensor*,characterization*,spectroscopy,spectrometry,groundwater
+0,ANYL,2011-2020,sensor*,spectroscopy,characterization*,spectrometry,groundwater
+0,BIOT,2000-2010,biochemi*,biophysic*,systems biology,biotechnology,bioprocess*
+0,BIOT,2011-2020,biochemi*,biophysic*,systems biology,precision medicine,biotechnology
+0,BIOL,2000-2010,drug discovery,protein folding,cytochrome*,biosynthesis,biomolecule*
+0,BIOL,2011-2020,drug discovery,biosynthesis,protein folding,cytochrome*,biomolecule*
+0,BMGT,2000-2010,chem* compan*,chem* enterprise*,chem* business*,chem* research and development,None
+0,BMGT,2011-2020,chem* compan*,chem* enterprise*,chem* business*,chem* research and development,None
+0,CARB,2000-2010,glycoprotein*,carbohydrate*,glycan*,oligosaccharide*,glycobiology
+0,CARB,2011-2020,carbohydrate*,glycoprotein*,glycan*,oligosaccharide*,glycobiology
+0,CATL,2000-2010,cataly*,metal oxides,surface chemistry,photocataly*,surface reaction*
+0,CATL,2011-2020,cataly*,metal oxides,photocataly*,surface chemistry,surface reaction*
+0,CELL,2000-2010,cellulose,polysaccharide*,lignin,hemp,lignocellulos*
+0,CELL,2011-2020,cellulose,polysaccharide*,lignin,lignocellulos*,hemp
+0,CHED,2000-2010,chem* class*,chem* communication*,lab* safety,chem* student*,chem* educat*
+0,CHED,2011-2020,chem* class*,chem* educat*,chem* educat*,lab* safety,chem* communication*
+0,CHAS,2000-2010,chem* safety,environmental health and safety,chem* regulations,lab* safety,None
+0,CHAS,2011-2020,chem* safety,lab* safety,chem* regulations,environmental health and safety,None
+0,CINF,2000-2010,drug discovery,bio* modeling,computational chemistry,cheminformatic*,chemical info*
+0,CINF,2011-2020,drug discovery,computational chemistry,chem* database*,bio* modeling,cheminformatic*
+0,TOXI,2000-2010,toxi*,chemical exposure*,antibody drug conjugate*,None,None
+0,TOXI,2011-2020,toxi*,chemical exposure*,antibody drug conjugate*,None,None
+0,CHAL,2000-2010,chem* in commerce,chem* patent*,pharmaceutical patent*,None,None
+0,CHAL,2011-2020,pharmaceutical patent*,chem* in commerce,chem* patent*,None,None
+0,COLL,2000-2010,thin film*,adsorption,tribolog*,nanoparticle*,emuls*
+0,COLL,2011-2020,nanoparticle*,adsorption,thin film*,tribolog*,nanomaterial*
+0,COMP,2000-2010,drug design,protein database*,molecular model*,drug discovery,quantum comp*
+0,COMP,2011-2020,drug discovery,drug design,molecular model*,density functional theory,protein database*
+0,ENFL,2000-2010,fuel*,petroleum,cataly*,batter*,energy efficiency
+0,ENFL,2011-2020,fuel*,energy efficiency,batter*,petroleum,renewable energy
+0,ENVR,2000-2010,*sensor*,soil*,water quality,cataly*,wastewater
+0,ENVR,2011-2020,*sensor*,soil*,water quality,environmental monitor*,cataly*
+0,FLUO,2000-2010,fluorine*,radiopharmaceutical chem*,None,None,None
+0,FLUO,2011-2020,fluorine*,radiopharmaceutical chem*,None,None,None
+0,GEOC,2000-2010,groundwater,mining,*geochem*,anthropogenic,hydraulic frac*
+0,GEOC,2011-2020,mining,groundwater,*geochem*,anthropogenic,hydraulic frac*
+0,HIST,2000-2010,evolution of chem*,chem* histor*,history of chem*,None,None
+0,HIST,2011-2020,chem* histor*,evolution of chem*,history of chem*,None,None
+0,I&EC,2000-2010,water purification,industrial chem*,rare earth element*,material* recovery,molten salt*
+0,I&EC,2011-2020,water purification,industrial chem*,industrial and engineering chemistry,industrial and engineering chemistry,rare earth element*
+0,INOR,2000-2010,electrochem*,nanomaterial*,organometallic*,nanoscience*,lanthanide*
+0,INOR,2011-2020,electrochem*,nanomaterial*,organometallic*,metal organic framework*,electrocataly*
+0,MEDI,2000-2010,protein interaction*,drug design,drug discovery,antibiotic*,lipophil*
+0,MEDI,2011-2020,protein interaction*,drug discovery,drug design,antibiotic*,glioblastoma*
+0,NUCL,2000-2010,isotope*,nuclear fuel*,radioisotope*,nuclear medicine*,nuclear fission
+0,NUCL,2011-2020,nuclear fuel*,isotope*,radioisotope*,nuclear medicine*,nuclear fission
+0,ORGN,2000-2010,protein*,amino acid*,peptide*,aromatic*,organic chem*
+0,ORGN,2011-2020,protein*,amino acid*,peptide*,aromatic*,organic chem*
+0,PHYS,2000-2010,electro*,spectroscopy,ion*,quantum*,graph theory
+0,PHYS,2011-2020,electro*,spectroscopy,nano*,ion*,quantum*
+0,POLY,2000-2010,plastic*,polymer*,polymeriz*,polymeric,macromolecule*
+0,POLY,2011-2020,plastic*,polymer*,polymeriz*,polymeric,macromolecule*
+0,PMSE,2000-2010,*polymer*,*peptide*,thin film*,macromolecul*,tissue engineering
+0,PMSE,2011-2020,*polymer*,*peptide*,thin film*,tissue engineering,macromolecul*
+0,PROF,2000-2010,chem* education,None,None,None,None
+0,PROF,2011-2020,chem* education,None,None,None,None
+0,RUBB,2000-2010,rubber*,None,None,None,None
+0,RUBB,2011-2020,rubber*,None,None,None,None
+0,SCHB,2000-2010,chem* sector*,academic entrepreneur*,commercial chem*,science advoca*,None
+0,SCHB,2011-2020,commercial chem*,chem* sector*,academic entrepreneur*,science advoca*,None
