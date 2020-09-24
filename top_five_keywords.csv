@@ -1,141 +1,281 @@
-,Division,Keyword,Total
-45,AGFD,protein*,28984.0
-0,AGFD,agricultur*,16595.0
-1,AGFD,food,9962.0
-36,AGFD,fruit*,5217.0
-9,AGFD,nut*,4852.0
-56,AGRO,soil,17059.0
-60,AGRO,crop*,10069.0
-65,AGRO,groundwater,4532.0
-51,AGRO,developing countr*,1770.0
-64,AGRO,surface water,1701.0
-77,ANYL,sensor*,70210.0
-80,ANYL,spectroscopy,16793.0
-88,ANYL,characterization*,14746.0
-75,ANYL,spectrometry,5417.0
-84,ANYL,groundwater,4532.0
-95,BIOT,biochemi*,5567.0
-109,BIOT,biophysic*,2701.0
-106,BIOT,systems biology,1503.0
-96,BIOT,biotechnology,1443.0
-101,BIOT,drug delivery,821.0
-119,BIOL,drug discovery,2761.0
-122,BIOL,protein folding,1256.0
-126,BIOL,biosynthesis,800.0
-113,BIOL,cytochrome*,795.0
-114,BIOL,biomolecule*,580.0
-129,BMGT,chem* compan*,35.0
-130,BMGT,chem* enterprise*,15.0
-128,BMGT,chem* business*,2.0
-131,BMGT,chem* research and development,1.0
-132,CARB,carbohydrate*,667.0
-139,CARB,glycoprotein*,646.0
-136,CARB,glycan*,100.0
-133,CARB,oligosaccharide*,85.0
-135,CARB,glycobiology,15.0
-142,CATL,cataly*,3500.0
-154,CATL,metal oxides,1119.0
-144,CATL,photocataly*,298.0
-159,CATL,surface chemistry,153.0
-149,CATL,surface reaction*,88.0
-161,CELL,cellulose,526.0
-164,CELL,polysaccharide*,329.0
-166,CELL,lignin,216.0
-167,CELL,lignocellulos*,127.0
-168,CELL,hemp,46.0
-177,CHED,chem* class*,154.0
-178,CHED,chem* communication*,17.0
-169,CHED,chem* educat*,12.0
-173,CHED,chem* educat*,12.0
-176,CHED,lab* safety,12.0
-179,CHAS,chem* safety,36.0
-180,CHAS,lab* safety,12.0
-182,CHAS,environmental health and safety,11.0
-181,CHAS,chem* regulations,10.0
-188,CINF,drug discovery,2761.0
-185,CINF,computational chemistry,946.0
-184,CINF,bio* modeling,417.0
-189,CINF,chem* database*,401.0
-186,CINF,cheminformatic*,323.0
-193,TOXI,toxi*,5275.0
-195,TOXI,chemical exposure*,34.0
-194,TOXI,antibody drug conjugate*,6.0
-197,CHAL,pharmaceutical patent*,6.0
-198,CHAL,chem* in commerce,4.0
-196,CHAL,chem* patent*,1.0
-208,COLL,nanoparticle*,2001.0
-210,COLL,adsorption,1868.0
-224,COLL,thin film*,1387.0
-212,COLL,tribolog*,890.0
-205,COLL,nanomaterial*,436.0
-227,COMP,drug discovery,2761.0
-226,COMP,drug design,2753.0
-242,COMP,molecular model*,2120.0
-238,COMP,protein database*,1924.0
-240,COMP,density functional theory,1427.0
-249,ENFL,fuel*,14096.0
-264,ENFL,petroleum,8520.0
-296,ENFL,energy efficiency,8261.0
-262,ENFL,batter*,7792.0
-279,ENFL,renewable energy,5863.0
-339,ENVR,*sensor*,71700.0
-341,ENVR,soil*,17143.0
-313,ENVR,water quality,4974.0
-318,ENVR,environmental monitor*,3626.0
-304,ENVR,cataly*,3500.0
-357,FLUO,fluorine*,472.0
-358,FLUO,radiopharmaceutical chem*,1.0
-365,GEOC,groundwater,4532.0
-543,GEOC,mining,4223.0
-359,GEOC,*geochem*,1680.0
-367,GEOC,anthropogenic,1513.0
-373,GEOC,hydraulic frac*,502.0
-377,HIST,chem* histor*,7.0
-379,HIST,evolution of chem*,4.0
-378,HIST,history of chem*,2.0
-389,I&EC,water purification,305.0
-381,I&EC,industrial chem*,189.0
-386,I&EC,rare earth element*,96.0
-382,I&EC,molten salt*,68.0
-380,I&EC,industrial and engineering chemistry,67.0
-400,INOR,electrochem*,1978.0
-398,INOR,nanomaterial*,436.0
-392,INOR,organometallic*,172.0
-397,INOR,metal organic framework*,118.0
-401,INOR,lanthanide*,62.0
-416,MEDI,protein interaction*,3692.0
-408,MEDI,drug discovery,2761.0
-415,MEDI,drug design,2753.0
-429,MEDI,antibiotic*,1624.0
-413,MEDI,glioblastoma*,715.0
-441,NUCL,nuclear fuel*,754.0
-448,NUCL,isotope*,713.0
-440,NUCL,radioisotope*,381.0
-447,NUCL,nuclear medicine*,237.0
-451,NUCL,nuclear fission,187.0
-466,ORGN,protein*,28984.0
-467,ORGN,amino acid*,8849.0
-465,ORGN,peptide*,3754.0
-460,ORGN,aromatic*,1416.0
-452,ORGN,organic chem*,503.0
-492,PHYS,electro*,97360.0
-498,PHYS,spectroscopy,16793.0
-485,PHYS,ion*,10400.0
-505,PHYS,nano*,9460.0
-513,PHYS,quantum*,9333.0
-518,POLY,plastic*,10156.0
-514,POLY,polymer*,7524.0
-519,POLY,polymeriz*,981.0
-520,POLY,polymeric,554.0
-517,POLY,macromolecule*,375.0
-527,PMSE,*polymer*,7882.0
-533,PMSE,*peptide*,4744.0
-529,PMSE,thin film*,1387.0
-532,PMSE,tissue engineering,670.0
-531,PMSE,macromolecul*,515.0
-537,PROF,chem* education,12.0
-538,RUBB,rubber*,1068.0
-541,SCHB,commercial chem*,7.0
-539,SCHB,chem* sector*,4.0
-540,SCHB,academic entrepreneur*,2.0
-542,SCHB,science advoca*,1.0
+,Division,Year Range,Keyword,Total
+45,AGFD,2000-2010,protein*,9909.0
+0,AGFD,2000-2010,agricultur*,2489.0
+1,AGFD,2000-2010,food,2292.0
+9,AGFD,2000-2010,nut*,879.0
+36,AGFD,2000-2010,fruit*,776.0
+588,AGFD,2011-2020,protein*,18794.0
+543,AGFD,2011-2020,agricultur*,14314.0
+544,AGFD,2011-2020,food,7517.0
+579,AGFD,2011-2020,fruit*,4425.0
+552,AGFD,2011-2020,nut*,3888.0
+56,AGRO,2000-2010,soil,3642.0
+60,AGRO,2000-2010,crop*,1327.0
+65,AGRO,2000-2010,groundwater,1264.0
+63,AGRO,2000-2010,metabolite*,365.0
+64,AGRO,2000-2010,surface water,329.0
+599,AGRO,2011-2020,soil,12949.0
+603,AGRO,2011-2020,crop*,8815.0
+608,AGRO,2011-2020,groundwater,3065.0
+594,AGRO,2011-2020,developing countr*,1557.0
+607,AGRO,2011-2020,surface water,1379.0
+77,ANYL,2000-2010,sensor*,18795.0
+88,ANYL,2000-2010,characterization*,3878.0
+80,ANYL,2000-2010,spectroscopy,3123.0
+75,ANYL,2000-2010,spectrometry,1519.0
+84,ANYL,2000-2010,groundwater,1264.0
+620,ANYL,2011-2020,sensor*,48145.0
+623,ANYL,2011-2020,spectroscopy,13502.0
+631,ANYL,2011-2020,characterization*,10264.0
+618,ANYL,2011-2020,spectrometry,3825.0
+627,ANYL,2011-2020,groundwater,3065.0
+95,BIOT,2000-2010,biochemi*,1821.0
+109,BIOT,2000-2010,biophysic*,763.0
+106,BIOT,2000-2010,systems biology,561.0
+96,BIOT,2000-2010,biotechnology,539.0
+105,BIOT,2000-2010,bioprocess*,231.0
+638,BIOT,2011-2020,biochemi*,3523.0
+652,BIOT,2011-2020,biophysic*,1813.0
+649,BIOT,2011-2020,systems biology,995.0
+646,BIOT,2011-2020,precision medicine,827.0
+639,BIOT,2011-2020,biotechnology,798.0
+119,BIOL,2000-2010,drug discovery,627.0
+122,BIOL,2000-2010,protein folding,614.0
+113,BIOL,2000-2010,cytochrome*,272.0
+126,BIOL,2000-2010,biosynthesis,229.0
+114,BIOL,2000-2010,biomolecule*,117.0
+662,BIOL,2011-2020,drug discovery,2184.0
+669,BIOL,2011-2020,biosynthesis,561.0
+665,BIOL,2011-2020,protein folding,516.0
+656,BIOL,2011-2020,cytochrome*,505.0
+657,BIOL,2011-2020,biomolecule*,470.0
+129,BMGT,2000-2010,chem* compan*,15.0
+130,BMGT,2000-2010,chem* enterprise*,5.0
+128,BMGT,2000-2010,chem* business*,0.0
+131,BMGT,2000-2010,chem* research and development,0.0
+672,BMGT,2011-2020,chem* compan*,17.0
+673,BMGT,2011-2020,chem* enterprise*,11.0
+671,BMGT,2011-2020,chem* business*,2.0
+674,BMGT,2011-2020,chem* research and development,0.0
+139,CARB,2000-2010,glycoprotein*,206.0
+132,CARB,2000-2010,carbohydrate*,136.0
+136,CARB,2000-2010,glycan*,35.0
+133,CARB,2000-2010,oligosaccharide*,24.0
+135,CARB,2000-2010,glycobiology,4.0
+675,CARB,2011-2020,carbohydrate*,515.0
+682,CARB,2011-2020,glycoprotein*,422.0
+679,CARB,2011-2020,glycan*,69.0
+676,CARB,2011-2020,oligosaccharide*,54.0
+678,CARB,2011-2020,glycobiology,11.0
+142,CATL,2000-2010,cataly*,1124.0
+154,CATL,2000-2010,metal oxides,211.0
+159,CATL,2000-2010,surface chemistry,81.0
+144,CATL,2000-2010,photocataly*,41.0
+149,CATL,2000-2010,surface reaction*,21.0
+685,CATL,2011-2020,cataly*,2284.0
+697,CATL,2011-2020,metal oxides,858.0
+687,CATL,2011-2020,photocataly*,263.0
+702,CATL,2011-2020,surface chemistry,72.0
+692,CATL,2011-2020,surface reaction*,71.0
+161,CELL,2000-2010,cellulose,112.0
+164,CELL,2000-2010,polysaccharide*,81.0
+166,CELL,2000-2010,lignin,32.0
+168,CELL,2000-2010,hemp,11.0
+167,CELL,2000-2010,lignocellulos*,7.0
+704,CELL,2011-2020,cellulose,402.0
+707,CELL,2011-2020,polysaccharide*,239.0
+709,CELL,2011-2020,lignin,183.0
+710,CELL,2011-2020,lignocellulos*,120.0
+711,CELL,2011-2020,hemp,35.0
+177,CHED,2000-2010,chem* class*,39.0
+178,CHED,2000-2010,chem* communication*,4.0
+176,CHED,2000-2010,lab* safety,2.0
+172,CHED,2000-2010,chem* student*,1.0
+169,CHED,2000-2010,chem* educat*,0.0
+720,CHED,2011-2020,chem* class*,109.0
+712,CHED,2011-2020,chem* educat*,12.0
+716,CHED,2011-2020,chem* educat*,12.0
+719,CHED,2011-2020,lab* safety,10.0
+721,CHED,2011-2020,chem* communication*,10.0
+179,CHAS,2000-2010,chem* safety,4.0
+182,CHAS,2000-2010,environmental health and safety,4.0
+181,CHAS,2000-2010,chem* regulations,3.0
+180,CHAS,2000-2010,lab* safety,2.0
+722,CHAS,2011-2020,chem* safety,32.0
+723,CHAS,2011-2020,lab* safety,10.0
+724,CHAS,2011-2020,chem* regulations,7.0
+725,CHAS,2011-2020,environmental health and safety,6.0
+188,CINF,2000-2010,drug discovery,627.0
+184,CINF,2000-2010,bio* modeling,120.0
+185,CINF,2000-2010,computational chemistry,112.0
+186,CINF,2000-2010,cheminformatic*,82.0
+187,CINF,2000-2010,chemical info*,64.0
+731,CINF,2011-2020,drug discovery,2184.0
+728,CINF,2011-2020,computational chemistry,840.0
+732,CINF,2011-2020,chem* database*,373.0
+727,CINF,2011-2020,bio* modeling,271.0
+729,CINF,2011-2020,cheminformatic*,263.0
+193,TOXI,2000-2010,toxi*,1326.0
+195,TOXI,2000-2010,chemical exposure*,6.0
+194,TOXI,2000-2010,antibody drug conjugate*,0.0
+736,TOXI,2011-2020,toxi*,3829.0
+738,TOXI,2011-2020,chemical exposure*,29.0
+737,TOXI,2011-2020,antibody drug conjugate*,7.0
+198,CHAL,2000-2010,chem* in commerce,1.0
+196,CHAL,2000-2010,chem* patent*,0.0
+197,CHAL,2000-2010,pharmaceutical patent*,0.0
+740,CHAL,2011-2020,pharmaceutical patent*,7.0
+741,CHAL,2011-2020,chem* in commerce,4.0
+739,CHAL,2011-2020,chem* patent*,2.0
+224,COLL,2000-2010,thin film*,448.0
+210,COLL,2000-2010,adsorption,289.0
+212,COLL,2000-2010,tribolog*,257.0
+208,COLL,2000-2010,nanoparticle*,158.0
+218,COLL,2000-2010,emuls*,113.0
+751,COLL,2011-2020,nanoparticle*,1893.0
+753,COLL,2011-2020,adsorption,1552.0
+767,COLL,2011-2020,thin film*,807.0
+755,COLL,2011-2020,tribolog*,619.0
+748,COLL,2011-2020,nanomaterial*,397.0
+226,COMP,2000-2010,drug design,956.0
+238,COMP,2000-2010,protein database*,752.0
+242,COMP,2000-2010,molecular model*,658.0
+227,COMP,2000-2010,drug discovery,627.0
+232,COMP,2000-2010,quantum comp*,348.0
+770,COMP,2011-2020,drug discovery,2184.0
+769,COMP,2011-2020,drug design,1741.0
+785,COMP,2011-2020,molecular model*,1422.0
+783,COMP,2011-2020,density functional theory,1211.0
+781,COMP,2011-2020,protein database*,1208.0
+249,ENFL,2000-2010,fuel*,3150.0
+264,ENFL,2000-2010,petroleum,1846.0
+290,ENFL,2000-2010,cataly*,1124.0
+262,ENFL,2000-2010,batter*,1012.0
+296,ENFL,2000-2010,energy efficiency,615.0
+792,ENFL,2011-2020,fuel*,10742.0
+839,ENFL,2011-2020,energy efficiency,7877.0
+805,ENFL,2011-2020,batter*,6836.0
+807,ENFL,2011-2020,petroleum,6516.0
+822,ENFL,2011-2020,renewable energy,5495.0
+339,ENVR,2000-2010,*sensor*,19247.0
+341,ENVR,2000-2010,soil*,3648.0
+313,ENVR,2000-2010,water quality,1339.0
+304,ENVR,2000-2010,cataly*,1124.0
+337,ENVR,2000-2010,wastewater,721.0
+882,ENVR,2011-2020,*sensor*,49045.0
+884,ENVR,2011-2020,soil*,13027.0
+856,ENVR,2011-2020,water quality,3580.0
+861,ENVR,2011-2020,environmental monitor*,2977.0
+847,ENVR,2011-2020,cataly*,2284.0
+357,FLUO,2000-2010,fluorine*,217.0
+358,FLUO,2000-2010,radiopharmaceutical chem*,0.0
+900,FLUO,2011-2020,fluorine*,244.0
+901,FLUO,2011-2020,radiopharmaceutical chem*,1.0
+365,GEOC,2000-2010,groundwater,1264.0
+1086,GEOC,2000-2010,mining,918.0
+359,GEOC,2000-2010,*geochem*,328.0
+367,GEOC,2000-2010,anthropogenic,200.0
+373,GEOC,2000-2010,hydraulic frac*,54.0
+1087,GEOC,2011-2020,mining,3304.0
+908,GEOC,2011-2020,groundwater,3065.0
+902,GEOC,2011-2020,*geochem*,1337.0
+910,GEOC,2011-2020,anthropogenic,1326.0
+916,GEOC,2011-2020,hydraulic frac*,449.0
+379,HIST,2000-2010,evolution of chem*,2.0
+377,HIST,2000-2010,chem* histor*,1.0
+378,HIST,2000-2010,history of chem*,1.0
+920,HIST,2011-2020,chem* histor*,5.0
+922,HIST,2011-2020,evolution of chem*,2.0
+921,HIST,2011-2020,history of chem*,1.0
+389,I&EC,2000-2010,water purification,73.0
+381,I&EC,2000-2010,industrial chem*,66.0
+386,I&EC,2000-2010,rare earth element*,33.0
+384,I&EC,2000-2010,material* recovery,7.0
+382,I&EC,2000-2010,molten salt*,6.0
+932,I&EC,2011-2020,water purification,224.0
+924,I&EC,2011-2020,industrial chem*,118.0
+923,I&EC,2011-2020,industrial and engineering chemistry,65.0
+933,I&EC,2011-2020,industrial and engineering chemistry,65.0
+929,I&EC,2011-2020,rare earth element*,62.0
+400,INOR,2000-2010,electrochem*,549.0
+398,INOR,2000-2010,nanomaterial*,49.0
+392,INOR,2000-2010,organometallic*,37.0
+404,INOR,2000-2010,nanoscience*,18.0
+401,INOR,2000-2010,lanthanide*,16.0
+943,INOR,2011-2020,electrochem*,1355.0
+941,INOR,2011-2020,nanomaterial*,397.0
+935,INOR,2011-2020,organometallic*,133.0
+940,INOR,2011-2020,metal organic framework*,119.0
+946,INOR,2011-2020,electrocataly*,47.0
+416,MEDI,2000-2010,protein interaction*,1144.0
+415,MEDI,2000-2010,drug design,956.0
+408,MEDI,2000-2010,drug discovery,627.0
+429,MEDI,2000-2010,antibiotic*,428.0
+410,MEDI,2000-2010,lipophil*,150.0
+959,MEDI,2011-2020,protein interaction*,2635.0
+951,MEDI,2011-2020,drug discovery,2184.0
+958,MEDI,2011-2020,drug design,1741.0
+972,MEDI,2011-2020,antibiotic*,1054.0
+956,MEDI,2011-2020,glioblastoma*,678.0
+448,NUCL,2000-2010,isotope*,177.0
+441,NUCL,2000-2010,nuclear fuel*,116.0
+440,NUCL,2000-2010,radioisotope*,108.0
+447,NUCL,2000-2010,nuclear medicine*,36.0
+451,NUCL,2000-2010,nuclear fission,33.0
+984,NUCL,2011-2020,nuclear fuel*,606.0
+991,NUCL,2011-2020,isotope*,506.0
+983,NUCL,2011-2020,radioisotope*,207.0
+990,NUCL,2011-2020,nuclear medicine*,177.0
+994,NUCL,2011-2020,nuclear fission,154.0
+466,ORGN,2000-2010,protein*,9909.0
+467,ORGN,2000-2010,amino acid*,3210.0
+465,ORGN,2000-2010,peptide*,1307.0
+460,ORGN,2000-2010,aromatic*,427.0
+452,ORGN,2000-2010,organic chem*,194.0
+1009,ORGN,2011-2020,protein*,18794.0
+1010,ORGN,2011-2020,amino acid*,5388.0
+1008,ORGN,2011-2020,peptide*,2342.0
+1003,ORGN,2011-2020,aromatic*,925.0
+995,ORGN,2011-2020,organic chem*,284.0
+492,PHYS,2000-2010,electro*,24866.0
+498,PHYS,2000-2010,spectroscopy,3123.0
+485,PHYS,2000-2010,ion*,2838.0
+513,PHYS,2000-2010,quantum*,2548.0
+489,PHYS,2000-2010,graph theory,2395.0
+1035,PHYS,2011-2020,electro*,68483.0
+1041,PHYS,2011-2020,spectroscopy,13502.0
+1048,PHYS,2011-2020,nano*,7804.0
+1028,PHYS,2011-2020,ion*,7216.0
+1056,PHYS,2011-2020,quantum*,6674.0
+518,POLY,2000-2010,plastic*,3072.0
+514,POLY,2000-2010,polymer*,2470.0
+519,POLY,2000-2010,polymeriz*,358.0
+520,POLY,2000-2010,polymeric,184.0
+517,POLY,2000-2010,macromolecule*,114.0
+1061,POLY,2011-2020,plastic*,6516.0
+1057,POLY,2011-2020,polymer*,4774.0
+1062,POLY,2011-2020,polymeriz*,544.0
+1063,POLY,2011-2020,polymeric,342.0
+1060,POLY,2011-2020,macromolecule*,237.0
+527,PMSE,2000-2010,*polymer*,2563.0
+533,PMSE,2000-2010,*peptide*,1594.0
+529,PMSE,2000-2010,thin film*,448.0
+531,PMSE,2000-2010,macromolecul*,159.0
+532,PMSE,2000-2010,tissue engineering,147.0
+1070,PMSE,2011-2020,*polymer*,5010.0
+1076,PMSE,2011-2020,*peptide*,2985.0
+1072,PMSE,2011-2020,thin film*,807.0
+1075,PMSE,2011-2020,tissue engineering,539.0
+1074,PMSE,2011-2020,macromolecul*,317.0
+537,PROF,2000-2010,chem* education,0.0
+1080,PROF,2011-2020,chem* education,12.0
+538,RUBB,2000-2010,rubber*,225.0
+1081,RUBB,2011-2020,rubber*,806.0
+539,SCHB,2000-2010,chem* sector*,1.0
+540,SCHB,2000-2010,academic entrepreneur*,0.0
+541,SCHB,2000-2010,commercial chem*,0.0
+542,SCHB,2000-2010,science advoca*,0.0
+1084,SCHB,2011-2020,commercial chem*,6.0
+1082,SCHB,2011-2020,chem* sector*,3.0
+1083,SCHB,2011-2020,academic entrepreneur*,2.0
+1085,SCHB,2011-2020,science advoca*,1.0
